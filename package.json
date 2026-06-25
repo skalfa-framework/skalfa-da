@@ -1,6 +1,6 @@
 {
   "name": "@skalfa/skalfa-da",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data Analytics OLAP ClickHouse client and database migration utility extension for Skalfa backend services.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
